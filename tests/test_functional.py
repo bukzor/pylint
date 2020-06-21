@@ -46,7 +46,7 @@ csv.register_dialect("test", test_dialect)
 #  - implement exhaustivity tests
 
 # If message files should be updated instead of checked.
-UPDATE = False
+UPDATE = True
 
 
 class LintModuleOutputUpdate(testutils.LintModuleTest):

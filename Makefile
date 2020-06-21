@@ -20,7 +20,7 @@ help:
 
 
 $(PIP):
-	virtualenv $(PYVE)
+	virtualenv $(PYVE) --python=python3
 
 $(TOX): $(PIP)
 	$(PIP) install tox~=2.0

@@ -1,3 +1,9 @@
+C:  5: Constant name "A" doesn't conform to UPPER_CASE naming style
+C:  5: Constant name "A" doesn't conform to UPPER_CASE naming style
+C:  6: Constant name "B" doesn't conform to UPPER_CASE naming style
+C:  6: Constant name "B" doesn't conform to UPPER_CASE naming style
+C:  7: Constant name "C" doesn't conform to UPPER_CASE naming style
+C:  7: Constant name "C" doesn't conform to UPPER_CASE naming style
 R:  1: Similar lines in 2 files
 ==input.func_w0801:3
 ==input.w0801_same:3

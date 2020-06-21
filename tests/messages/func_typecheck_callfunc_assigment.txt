@@ -1,3 +1,5 @@
+C: 26: Constant name "A" doesn't conform to UPPER_CASE naming style
+C: 33: Constant name "A" doesn't conform to UPPER_CASE naming style
 E: 18: Assigning result of a function call, where the function has no return
 E: 26: Assigning result of a function call, where the function returns None
 E: 33: Assigning result of a function call, where the function returns None

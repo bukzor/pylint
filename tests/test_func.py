@@ -32,7 +32,7 @@ INPUT_DIR = join(dirname(abspath(__file__)), "input")
 MSG_DIR = join(dirname(abspath(__file__)), "messages")
 
 FILTER_RGX = None
-UPDATE = False
+UPDATE = True
 INFO_TEST_RGX = re.compile(r"^func_i\d\d\d\d$")
 
 # Classes
